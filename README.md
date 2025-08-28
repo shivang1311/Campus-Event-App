@@ -2,6 +2,10 @@
 
 A modern, interactive, and role-based platform for managing campus events. This application provides a seamless experience for students to discover and register for events, and for organizers and administrators to manage them effectively. The entire application runs in the browser, using `localStorage` to persist data for a realistic demo experience.
 
+## Website Live Link
+
+campuseventmanager.netlify.app
+
 ## Key Features
 
 - **Role-Based Access Control**: Three distinct user roles (Student, Organizer, Admin) with tailored permissions.
