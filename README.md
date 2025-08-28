@@ -4,7 +4,7 @@ A modern, interactive, and role-based platform for managing campus events. This 
 
 ## Website Live Link
 
-campuseventmanager.netlify.app
+https://campuseventmanager.netlify.app
 
 ## Key Features
 
